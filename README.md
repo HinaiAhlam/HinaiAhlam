@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**HinaiAhlam/HinaiAhlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my project portfolio! This repository showcases the projects I've worked on during my learning journey.
+## :file_folder: Projects
+### 1. Tech Learning Journal
+**Repository**: [tech-learning]
+- **Description**: Technical documentation and reports about software development concepts
+- **Technologies**: Git, GitHub, Markdown
+- **What I Learned**: Version control, technical writing, software development fundamentals
+### 2. Software Foundation Summary
+**Repository**: [software-foundation-summary]
+- **Description**: Comprehensive reports on SDLC, Agile, and web development
+- **Technologies**: Git, GitHub, Technical Documentation
+- **What I Learned**: SDLC methodologies, Agile practices, .NET stack
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning Progress
+- Git & GitHub fundamentals
+-  Software Development Life Cycle
+-  Web Development basics
