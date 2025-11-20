@@ -7,7 +7,10 @@ Education :
 Degree : Bachelor's in information techhnology / communication .
 University : Arap Open University.
 Graduation Year: 2017.
-About Me : I'm an enthusiastic graduate with a strong passion for technology and software development. Having recently completed my studies, I'm eager to apply my knowledge to real-world projects. I’m continuously learning and expanding my skills in web development and software engineering.
+
+
+About Me : 
+I'm an enthusiastic graduate with a strong passion for technology and software development. Having recently completed my studies, I'm eager to apply my knowledge to real-world projects. I’m continuously learning and expanding my skills in web development and software engineering.
 
 Technical Skills : Programming Languages , Proficient : c#. Familiar : Java, JavaScript ,c# . Learning : Java, JavaScript ,c#
 
